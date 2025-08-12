@@ -1,7 +1,7 @@
  document.addEventListener('DOMContentLoaded', function() {
          
             const NOTEBOOKLM_CHAT_URL = "https://notebooklm.google.com/notebook/a07b0d8e-2f0e-4efe-b084-fd2fbf685fc1?authuser=1";
-            const SUMMARY_YOUTUBE_ID = "Xv5ZrnzA2DA"; 
+            const SUMMARY_YOUTUBE_ID = "QQ5nhwKjTlc"; 
             const toast = document.getElementById('toast-notification');
             const originalToastText = '¡Requisitos copiados al portapapeles!'; 
             if(toast) toast.textContent = originalToastText;
