@@ -93,7 +93,7 @@
                         sectionsToToggleWrapper.classList.add('visible-content');
                         toggleIcon.classList.remove('fa-chevron-down');
                         toggleIcon.classList.add('fa-chevron-up');
-                        toggleButton.textContent = ' Ocultar Secciones';
+                        toggleButton.textContent = ' Ocultar más ayuda';
                         toggleButton.prepend(toggleIcon); 
                     } else {
                         sectionsToToggleWrapper.classList.remove('visible-content');
